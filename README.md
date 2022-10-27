@@ -31,7 +31,9 @@ When you select "2" to delete a Product, a list of all the current Products in t
 
 If you do decide to delete a Product, in order to prevent the event of the wrong Product being deleted, you are then prompted to either enter "Yes" to successfully delete the Product or "No" in order to keep the Product and go back to the main menu.
 ## Listing all of the Products in a specific Department
+When you select "3" to List all of the Products in a specific Department, you are prompted to enter which Department's Products you wish to view. When you enter your answer, all of the Products that have that specific Department value will be displayed along with all of their information. However, if the Department value doesn't match any of the predefined Department values then all of the Products categorised as "Other" will be displayed.
 ## Listing all of the Products
+When you select "4" then a simple function will run in order to print all of the current Products in the Warehouse's catalog. The shown Products will also be categorised by Department.
 ## Adding more Stock to a Product
 ## Viewing the Sales Report
 ## Record a Purchase
