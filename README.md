@@ -27,7 +27,7 @@ When you select "1" to add a new Product to the Warehouse catalog you are prompt
 
 Just as some extra notes, when entering the Department value, if it does not match any of the predfined Departments "Other" will be assigned to the Product. Furthermore, if the Image Pathway is incorrect then no image will show for the Product when you try to list all of the Products (only way to fix the Image Pathway is to delete the Product and then re-add)
 ## Deleting a Product
-When you select "2" to delete a Product, a list of all the current Products in the Warehouse Catalog are displayed. You are then prompted to select which Product you wish to delete. However, if you don't want to delete a Product then you can exit by entering "0" on this menu.
+When you select "2" to delete a Product, a list of all the current Products in the Warehouse Catalog are displayed. You are then prompted to select which Product you wish to delete. However, if you don't want to delete a Product then you can exit by entering "0" on this menu.\n
 If you do decide to delete a Product, in order to prevent the event of the wrong Product being deleted, you are then prompted to either enter "Yes" to successfully delete the Product or "No" in order to keep the Product and go back to the main menu.
 ## Listing all of the Products in a specific Department
 ## Listing all of the Products
