@@ -14,5 +14,21 @@ As soon as the new window opens up you will be presented with 8 different menu o
 7. Record Purchase
 8. Exit
 
-You are then also prompted to enter which process you wish to carry out by entering the process' assigned number. So, for example, if you wish to add a new Product to the Warehouse catalog then you would enter "1". I will now go through each of the 7 main processes, as when you enter 8, as expected the application ends and you then have to manually close the window of the command line interface
+You are then also prompted to enter which process you wish to carry out by entering the process' assigned number. So, for example, if you wish to add a new Product to the Warehouse catalog then you would enter "1". I will now briefly go over each of the 7 main processes. 8 will be excluded because when 8 is entered into the menu selection prompt, as expected the application ends and you then have to manually close the window of the command line interface
 ## Adding a New Product
+When you select "1" to add a new Product to the Warehouse catalog you are prompted to enter the details of the Product. These details include:
+- Manufacturer
+- Model
+- Price (in £s)
+- The Department the Product belongs to
+- The Quantity of the Product
+- The Product Description
+- The Product Image Pathway
+
+Just as some extra notes, when entering the Department value, if it does not match any of the predfined Departments "Other" will be assigned to the Product. Furthermore, if the Image Pathway is incorrect then no image will show for the Product when you try to list all of the Products (only way to fix the Image Pathway is to delete the Product and then re-add)
+## Deleting a Product
+## Listing all of the Products in a specific Department
+## Listing all of the Products
+## Adding more Stock to a Product
+## Viewing the Sales Report
+## Record a Purchase
