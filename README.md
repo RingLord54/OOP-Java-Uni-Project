@@ -39,13 +39,22 @@ If you do decide to delete a Product, in order to prevent the event of the wrong
 When you select "3" to List all of the Products in a specific Department, you are prompted to enter which Department's Products you wish to view. When you enter your answer, all of the Products that have that specific Department value will be displayed along with all of their information. However, if the Department value doesn't match any of the predefined Department values then all of the Products categorised as "Other" will be displayed.
 
 ## Listing all of the Products
-When you select "4" then a simple function will run in order to print all of the current Products in the Warehouse's catalog. The shown Products will also be categorised by Department.
+When you select "4" a simple function will run in order to print all of the current Products in the Warehouse's catalog. The shown Products will also be categorised by Department.
 
 ## Adding more Stock to a Product
-When you select "5" to add more Stock to a Product, the structure is very similar to when you want to delete ad Product. This is because a list of all of the current Products will be displayed and you're then prompted to enter which Product you want to add more Stock to. However, if you do not wish to add more Stock to any of the Products then you can enter "0" to exit the menu and go back to the main menu instead.
+When you select "5" to add more Stock to a Product, the structure is very similar to when you want to delete a Product. This is because a list of all of the current Products will be displayed and you're then prompted to enter which Product you want to add more Stock to. However, if you do not wish to add more Stock to any of the Products then you can enter "0" to exit the menu and go back to the main menu instead.
 
 Although, if you do decide to add more Stock to a product, you're then prompted to enter how much Stock you wish to add to the selected Product. If a negative value is entered then you will be prompted again to enter a value.
 
 ## Viewing the Sales Report
+When you select "6" a simple function will run in order to print all of the current Products in the Warehouse's catalog, but in order of most purchases to least. The information displayed for each Product is there:
+- Manufacturer
+- Model
+- Purchases
+- Price
+- Total Profit
 
 ## Record a Purchase
+When you select "7" to record the purchase of a Product, the structure is very similar to when you want to delete a Product. This is because a list of all of the current Products will be displayed and you're then prompted to enter which Product you want to record a purchase for. However, if you do not wish to record a purchase for any of the Products then you can enter "0" to exit the menu and go back to the main menu instead.
+
+Although, if you do decide to record a purchase for a product, then similarly to adding stock to a Product, you're then prompted to enter how many purchases of that Product were made. You can only enter a value that's larger than or equal to the current Stock level of the Product you're recording purchases for though.
